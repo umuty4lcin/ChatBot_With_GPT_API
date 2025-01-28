@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ChatBot": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "OPENAI_API_KEY": "YOUR_API_KEY"
+      }
+    }
+  }
+}
